@@ -31,5 +31,8 @@ il2cpp_helper
   Call<ReturnType>(rva, args...) — call any method directly by RVA
   
   Il2CppStringToStd() — convert game strings to std::string
+
+  
+
   
   }
